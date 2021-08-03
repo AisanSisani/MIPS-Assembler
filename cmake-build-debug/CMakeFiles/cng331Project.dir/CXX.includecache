@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aisan/Desktop/cng331Project/main.cpp
+iostream
+-
+iterator
+-
+map
+-
+fstream
+-
+string
+-
+sstream
+-
+

@@ -1,0 +1,3 @@
+C:/Users/aisan/Desktop/cng331Project/cmake-build-debug/CMakeFiles/cng331Project.dir
+C:/Users/aisan/Desktop/cng331Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aisan/Desktop/cng331Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

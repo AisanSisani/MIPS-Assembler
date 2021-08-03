@@ -1,0 +1,17 @@
+﻿  Assembler.cpp
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\Assembler.h(7,25): error C3646:  'translate': unknown override specifier
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\Assembler.h(7,26): error C2059:  syntax error: ')'
+  cng331Project.cpp
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\Assembler.h(7,27): error C2238:  unexpected token(s) preceding ';'
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\LookUpTable.h(6,5): error C2143:  syntax error: missing ';' before '<'
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\LookUpTable.h(6,5): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\LookUpTable.h(6,31): error C2238:  unexpected token(s) preceding ';'
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\LookUpTable.h(7,5): error C2143:  syntax error: missing ';' before '<'
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\LookUpTable.h(7,5): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\LookUpTable.h(7,31): error C2238:  unexpected token(s) preceding ';'
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\LookUpTable.h(8,21): error C2079:  'LookUpTable::opCodeFile' uses undefined class 'std::basic_ifstream<char,std::char_traits<char>>'
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\LookUpTable.h(9,23): error C2079:  'LookUpTable::registerFile' uses undefined class 'std::basic_ifstream<char,std::char_traits<char>>'
+  exceptions.cpp
+  LookUpTable.cpp
+  Generating Code...
+C:\Users\aisan\Desktop\cng331ProjectVS\cng331Project\cng331Project.cpp(26,2): warning C4286:  'mnemonicException &': is caught by base class ('std::exception &') on line 23
